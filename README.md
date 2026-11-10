@@ -1,26 +1,22 @@
-
-<!-- ================================================= -->
-<!-- ATTILA EKA PUTRA | ROYAL AI KINGDOM V3            -->
-<!-- GitHub Profile: Attilaekaputra1                   -->
-<!-- ================================================= -->
+ <!-- ATTILA EKA PUTRA | ROYAL AI KINGDOM -->
+<!-- GitHub: Attilaekaputra1 -->
 
 <div align="center">
 
-<!-- ROYAL AI HERO -->
-<img src="./assets/royal-ai-universe.svg"
+<img src="./assets/crown-king.svg"
      width="100%"
-     alt="Attila Royal AI Universe"/>
+     alt="Attila Royal AI Crown"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=900&color=83F05B&center=true&vCenter=true&width=850&lines=ATTILA+EKA+PUTRA;Applied+AI+%26+Partnership+Specialist;AI+Prompt+Engineering+Enthusiast;JavaScript+%26+Python+Explorer;Building+Ideas+with+Intelligent+Technology"
-     alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=900&color=83F05B&center=true&vCenter=true&width=850&lines=Welcome+to+Attila's+Digital+Kingdom!;Applied+AI+%26+Partnership+Specialist;AI+Prompt+Engineering+Enthusiast;JavaScript+%26+Python+Explorer;Think+Beyond+Limits.+Create+Beyond+Imagination."
+alt="Typing Animation"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-183D2A?style=for-the-badge&logo=openai&logoColor=9BFF68"/>
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-70C957?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/TECH_INNOVATION-9BEB64?style=for-the-badge&logoColor=183D2A"/>
+<img src="https://img.shields.io/badge/ROYAL_AI-183D2A?style=for-the-badge&logo=openai&logoColor=9BE564"/>
+<img src="https://img.shields.io/badge/AI_PROMPTER-70C957?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/TECH_INNOVATION-9BE564?style=for-the-badge&logo=github&logoColor=183D2A"/>
 
 <br/><br/>
 
@@ -28,7 +24,7 @@
 
 ### Think Beyond Limits. Create Beyond Imagination.
 
-*Where intelligence meets creativity, technology, and meaningful collaboration.*
+*Welcome to my digital kingdom — where intelligence meets creativity.*
 
 </div>
 
@@ -44,7 +40,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👑 PERSONAL IDENTITY
+### ✦ PERSONAL IDENTITY
 
 **Name**
 
@@ -54,9 +50,9 @@ Attila Eka Putra
 
 Applied AI & Partnership Specialist
 
-**Primary Focus**
+**Specialization**
 
-Artificial Intelligence & Prompt Engineering
+AI Prompt Engineering
 
 **Programming Languages**
 
@@ -65,13 +61,13 @@ JavaScript & Python
 </td>
 <td width="50%" valign="top">
 
-### 🚀 PROFESSIONAL MISSION
+### ✦ MY MISSION
 
-Exploring the intersection of artificial intelligence, creative technology, and strategic partnerships.
+Exploring the intersection of artificial intelligence, creative technology, and strategic collaboration.
 
-Transforming ideas into intelligent solutions through innovation, experimentation, and meaningful collaboration.
+Turning imagination into intelligent possibilities and building meaningful digital experiences.
 
-**Mindset:** Think. Explore. Create. Innovate.
+**Current Status:** Always Exploring 🚀
 
 </td>
 </tr>
@@ -83,7 +79,7 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 # 🧠 THE INTELLIGENCE CORE
 
-*Exploring the limitless possibilities of artificial intelligence.*
+*Exploring the possibilities of intelligent technology.*
 
 </div>
 
@@ -93,7 +89,7 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 ### 🤖 APPLIED ARTIFICIAL INTELLIGENCE
 
-- Generative AI exploration
+- Generative AI
 - AI-powered solutions
 - Intelligent workflows
 - AI experimentation
@@ -104,11 +100,11 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 ### ✨ PROMPT ENGINEERING
 
-- Advanced prompt design
 - Text-to-image prompting
 - Text-to-video prompting
 - Prompt optimization
-- Structured AI workflows
+- Structured prompting
+- AI creative workflows
 
 </td>
 </tr>
@@ -119,18 +115,18 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 - JavaScript
 - Python
-- Programming fundamentals
+- Development fundamentals
 - Workflow experimentation
-- Technical problem solving
+- Problem solving
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤝 PARTNERSHIP & INNOVATION
 
-- Strategic partnerships
-- Technology collaboration
+- Strategic collaboration
 - Partnership development
+- Technology ecosystems
 - Digital transformation
 - Innovation initiatives
 
@@ -148,19 +144,19 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 <img src="https://skillicons.dev/icons?i=javascript,python" alt="JavaScript and Python"/>
 
-<br/><br/>
+<br/>
 
-### DEVELOPMENT ENVIRONMENT
+### DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=github,git,vscode,figma" alt="Development Tools"/>
 
 <br/><br/>
 
-### ARTIFICIAL INTELLIGENCE
+### AI & CREATIVE TECHNOLOGY
 
-<img src="https://img.shields.io/badge/GENERATIVE_AI-183D2A?style=for-the-badge&logo=openai&logoColor=9BFF68"/>
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-245D36?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_AUTOMATION-70C957?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-183D2A?style=for-the-badge&logo=openai&logoColor=9BE564"/>
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-70C957?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATIVE_TECHNOLOGY-9BE564?style=for-the-badge"/>
 
 </div>
 
@@ -168,9 +164,7 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 <div align="center">
 
-# 🔮 THE INNOVATION PROTOCOL
-
-*My approach to turning ideas into intelligent possibilities.*
+# 🔮 MY CREATIVE WORKFLOW
 
 </div>
 
@@ -178,16 +172,16 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 <tr>
 <td align="center" width="20%">
 
-💡
+### 💡
 
 **01**
 
-**IDEATE**
+**THINK**
 
 </td>
 <td align="center" width="20%">
 
-🔍
+### 🔍
 
 **02**
 
@@ -196,25 +190,25 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 </td>
 <td align="center" width="20%">
 
-🧠
+### 🧠
 
 **03**
 
-**ENGINEER**
+**PROMPT**
 
 </td>
 <td align="center" width="20%">
 
-⚙️
+### ⚙️
 
 **04**
 
-**DEVELOP**
+**BUILD**
 
 </td>
 <td align="center" width="20%">
 
-🚀
+### 🚀
 
 **05**
 
@@ -226,7 +220,7 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 <div align="center">
 
-*Great innovation begins with curiosity and grows through experimentation.*
+*Every great innovation begins with a curious mind.*
 
 </div>
 
@@ -242,9 +236,9 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 <img src="./assets/cards.dark.svg"
      width="100%"
-     alt="Attila GitHub Statistics and Programming Languages"/>
+     alt="Attila GitHub Statistics, Languages and Contributions"/>
 
-<br/><br/>
+<br/>
 
 ### ⚡ EVERY CONTRIBUTION BUILDS THE KINGDOM.
 
@@ -254,17 +248,64 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 <div align="center">
 
-# 🌌 ROYAL AI UNIVERSE
+# 👑 ROYAL AI COMMAND CENTER
 
-*An ecosystem of intelligence, imagination, and endless possibilities.*
+*Every idea is a new possibility. Every innovation builds the future.*
 
-<img src="./assets/royal-ai-universe.svg"
-     width="100%"
-     alt="Royal AI Neural Constellation Reactor"/>
+<br/>
 
-### 👑 INTELLIGENCE ONLINE
+<img src="./assets/crown-king.svg"
+     width="230"
+     alt="Royal AI Crown"/>
 
-**THINK BEYOND LIMITS. CREATE BEYOND IMAGINATION.**
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=83F05B&center=true&vCenter=true&width=650&lines=ROYAL+AI+SYSTEM+ONLINE;INTELLIGENCE+IS+THE+NEW+POWER;THINK+BEYOND+LIMITS;CREATE+BEYOND+IMAGINATION"
+     alt="Royal AI System Animation"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠
+
+**AI CORE**
+
+Intelligence
+
+</td>
+<td align="center" width="33%">
+
+### ⚡
+
+**INNOVATION**
+
+Creativity
+
+</td>
+<td align="center" width="33%">
+
+### 👑
+
+**ROYAL MODE**
+
+Excellence
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-183D2A?style=for-the-badge&logo=probot&logoColor=9BFF68"/>
+<img src="https://img.shields.io/badge/POWERED_BY-INTELLIGENCE-70C957?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-INNOVATING-9BFF68?style=for-the-badge"/>
+
+<br/><br/>
+
+### ⚡ THE FUTURE IS BUILT BY THOSE WHO DARE TO CREATE.
 
 </div>
 
@@ -272,14 +313,14 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 <div align="center">
 
-# 🌐 CONNECT WITH ME
+# 🌐 ENTER THE KINGDOM
 
 **Let's connect, collaborate, and create something extraordinary.**
 
 <br/>
 
 <a href="https://github.com/Attilaekaputra1">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_KINGDOM-183D2A?style=for-the-badge&logo=github&logoColor=9BFF68"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_KINGDOM-183D2A?style=for-the-badge&logo=github&logoColor=9BE564"/>
 </a>
 
 <br/><br/>
@@ -295,7 +336,7 @@ Transforming ideas into intelligent solutions through innovation, experimentatio
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:183D2A,50:70C957,100:9BFF68&height=150&section=footer"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:183D2A,50:70C957,100:9BE564&height=130&section=footer"
      width="100%"
      alt="Royal Green Footer"/>
 
