@@ -1,343 +1,115 @@
- <!-- ATTILA EKA PUTRA | ROYAL AI KINGDOM -->
-<!-- GitHub: Attilaekaputra1 -->
-
+ 
 <div align="center">
 
-<img src="./assets/crown-king.svg"
-     width="100%"
-     alt="Attila Royal AI Crown"/>
+<img src="./assets/crown-king.svg" width="100%" alt="Royal AI Banner"/>
 
-<br/>
+# 👑 ATTILA EKA PUTRA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=900&color=83F05B&center=true&vCenter=true&width=850&lines=Welcome+to+Attila's+Digital+Kingdom!;Applied+AI+%26+Partnership+Specialist;AI+Prompt+Engineering+Enthusiast;JavaScript+%26+Python+Explorer;Think+Beyond+Limits.+Create+Beyond+Imagination."
-alt="Typing Animation"/>
+### APPLIED AI & PARTNERSHIP SPECIALIST
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+my+Royal+AI+Universe;Building+Ideas+with+Artificial+Intelligence;Prompt+Engineering+%7C+Creative+Technology;Think+Beyond+Limits.+Create+Beyond+Imagination." alt="Typing SVG"/>
 
-<img src="https://img.shields.io/badge/ROYAL_AI-183D2A?style=for-the-badge&logo=openai&logoColor=9BE564"/>
-<img src="https://img.shields.io/badge/AI_PROMPTER-70C957?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/TECH_INNOVATION-9BE564?style=for-the-badge&logo=github&logoColor=183D2A"/>
-
-<br/><br/>
-
-# 👑 THE ROYAL AI EXPERIENCE
-
-### Think Beyond Limits. Create Beyond Imagination.
-
-*Welcome to my digital kingdom — where intelligence meets creativity.*
+*Transforming ideas into intelligent solutions.*
 
 </div>
 
 ---
 
-<div align="center">
+## 👑 THE ROYAL AI IDENTITY
 
-# 🧑‍💻 CHARACTER PROFILE
+| | |
+|:---:|:---|
+| **Name** | Attila Eka Putra |
+| **Role** | Applied AI & Partnership Specialist |
+| **Focus** | Artificial Intelligence, Prompt Engineering & Innovation |
+| **Languages** | JavaScript · Python |
+| **Mission** | Exploring the intersection of AI, creativity, and technology. |
 
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✦ PERSONAL IDENTITY
-
-**Name**
-
-Attila Eka Putra
-
-**Professional Position**
-
-Applied AI & Partnership Specialist
-
-**Specialization**
-
-AI Prompt Engineering
-
-**Programming Languages**
-
-JavaScript & Python
-
-</td>
-<td width="50%" valign="top">
-
-### ✦ MY MISSION
-
-Exploring the intersection of artificial intelligence, creative technology, and strategic collaboration.
-
-Turning imagination into intelligent possibilities and building meaningful digital experiences.
-
-**Current Status:** Always Exploring 🚀
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🧠 THE INTELLIGENCE CORE
-
-*Exploring the possibilities of intelligent technology.*
-
-</div>
+## 🧠 THE INTELLIGENCE CORE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 APPLIED ARTIFICIAL INTELLIGENCE
+### ⚡ AI & PROMPT ENGINEERING
 
+- Artificial Intelligence
 - Generative AI
-- AI-powered solutions
-- Intelligent workflows
-- AI experimentation
-- Creative automation
+- Prompt Engineering
+- AI-powered Creativity
+- Intelligent Automation
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ PROMPT ENGINEERING
-
-- Text-to-image prompting
-- Text-to-video prompting
-- Prompt optimization
-- Structured prompting
-- AI creative workflows
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 PROGRAMMING & DEVELOPMENT
+### 🚀 TECHNOLOGY & INNOVATION
 
 - JavaScript
 - Python
-- Development fundamentals
-- Workflow experimentation
-- Problem solving
-
-</td>
-<td width="50%" valign="top">
-
-### 🤝 PARTNERSHIP & INNOVATION
-
-- Strategic collaboration
-- Partnership development
-- Technology ecosystems
-- Digital transformation
-- Innovation initiatives
+- Creative Technology
+- Digital Transformation
+- Strategic Partnership
 
 </td>
 </tr>
 </table>
 
----
+## ⚙️ TECHNOLOGY ARSENAL
 
 <div align="center">
 
-# ⚡ TECHNOLOGY ARSENAL
-
-### PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=javascript,python" alt="JavaScript and Python"/>
+<img src="https://skillicons.dev/icons?i=javascript,python,github,git,vscode,figma&theme=dark" alt="Technology Stack"/>
 
 <br/>
 
-### DEVELOPMENT TOOLS
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-39FF14?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-39FF14?style=for-the-badge&logo=probot&logoColor=black"/>
+<img src="https://img.shields.io/badge/CREATIVE%20TECHNOLOGY-39FF14?style=for-the-badge&logo=lightning&logoColor=black"/>
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode,figma" alt="Development Tools"/>
+</div>
 
-<br/><br/>
+## 🔬 MY CREATIVE WORKFLOW
 
-### AI & CREATIVE TECHNOLOGY
+<div align="center">
 
-<img src="https://img.shields.io/badge/GENERATIVE_AI-183D2A?style=for-the-badge&logo=openai&logoColor=9BE564"/>
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-70C957?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CREATIVE_TECHNOLOGY-9BE564?style=for-the-badge"/>
+| 01 · THINK | 02 · EXPLORE | 03 · PROMPT | 04 · BUILD | 05 · INNOVATE |
+|:---:|:---:|:---:|:---:|:---:|
+| 💡 | 🔍 | 🧠 | ⚙️ | 🚀 |
+
+</div>
+
+## 📊 GITHUB POWER LEVEL
+
+<div align="center">
+
+<img src="./assets/cards.dark.svg" width="100%" alt="GitHub Profile Statistics"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🔮 MY CREATIVE WORKFLOW
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 💡
-
-**01**
-
-**THINK**
-
-</td>
-<td align="center" width="20%">
-
-### 🔍
-
-**02**
-
-**EXPLORE**
-
-</td>
-<td align="center" width="20%">
-
-### 🧠
-
-**03**
-
-**PROMPT**
-
-</td>
-<td align="center" width="20%">
-
-### ⚙️
-
-**04**
-
-**BUILD**
-
-</td>
-<td align="center" width="20%">
-
-### 🚀
-
-**05**
-
-**INNOVATE**
-
-</td>
-</tr>
-</table>
+## 🧬 ROYAL NEURAL NETWORK
 
 <div align="center">
 
-*Every great innovation begins with a curious mind.*
+<img src="./assets/snake.svg" width="100%" alt="Royal AI Neural Network"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 📊 GITHUB POWER LEVEL
-
-*My development activity, programming statistics, and coding evolution.*
-
-<br/>
-
-<img src="./assets/cards.dark.svg"
-     width="100%"
-     alt="Attila GitHub Statistics, Languages and Contributions"/>
-
-<br/>
-
-### ⚡ EVERY CONTRIBUTION BUILDS THE KINGDOM.
-
-</div>
-
----
+## 🌐 ENTER THE KINGDOM
 
 <div align="center">
 
-# 👑 ROYAL AI COMMAND CENTER
+[![GitHub](https://img.shields.io/badge/GitHub-Attilaekaputra1-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Attilaekaputra1)
 
-*Every idea is a new possibility. Every innovation builds the future.*
-
-<br/>
-
-<img src="./assets/crown-king.svg"
-     width="230"
-     alt="Royal AI Crown"/>
+<img src="https://komarev.com/ghpvc/?username=Attilaekaputra1&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=83F05B&center=true&vCenter=true&width=650&lines=ROYAL+AI+SYSTEM+ONLINE;INTELLIGENCE+IS+THE+NEW+POWER;THINK+BEYOND+LIMITS;CREATE+BEYOND+IMAGINATION"
-     alt="Royal AI System Animation"/>
+*Think Beyond Limits. Create Beyond Imagination.*
 
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🧠
-
-**AI CORE**
-
-Intelligence
-
-</td>
-<td align="center" width="33%">
-
-### ⚡
-
-**INNOVATION**
-
-Creativity
-
-</td>
-<td align="center" width="33%">
-
-### 👑
-
-**ROYAL MODE**
-
-Excellence
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-183D2A?style=for-the-badge&logo=probot&logoColor=9BFF68"/>
-<img src="https://img.shields.io/badge/POWERED_BY-INTELLIGENCE-70C957?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-INNOVATING-9BFF68?style=for-the-badge"/>
-
-<br/><br/>
-
-### ⚡ THE FUTURE IS BUILT BY THOSE WHO DARE TO CREATE.
-
-</div>
-
----
-
-<div align="center">
-
-# 🌐 ENTER THE KINGDOM
-
-**Let's connect, collaborate, and create something extraordinary.**
-
-<br/>
-
-<a href="https://github.com/Attilaekaputra1">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_KINGDOM-183D2A?style=for-the-badge&logo=github&logoColor=9BE564"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Attilaekaputra1&label=KINGDOM%20VISITORS&color=70C957&style=for-the-badge"
-     alt="Profile Visitors"/>
-
-<br/><br/>
-
-### 👑 RULE YOUR IDEAS. BUILD YOUR FUTURE.
-
-*Keep learning. Keep creating. Keep evolving.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:183D2A,50:70C957,100:9BE564&height=130&section=footer"
-     width="100%"
-     alt="Royal Green Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:39FF14&height=120&section=footer" width="100%"/>
 
 </div>
