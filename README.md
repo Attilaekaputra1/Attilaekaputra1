@@ -1,18 +1,26 @@
 
+<!-- ================================================== -->
+<!-- ATTILA EKA PUTRA | ROYAL AI KINGDOM                -->
+<!-- GitHub Profile README                              -->
+<!-- ================================================== -->
+
 <div align="center">
 
-<!-- ROYAL AI HERO -->
-<img src="./assets/crown-king.svg" width="100%" alt="Attila Royal AI Crown"/>
+<!-- ROYAL AI CROWN -->
+<img src="./assets/crown-king.svg"
+     width="100%"
+     alt="Attila Royal AI Crown"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=70C957&center=true&vCenter=true&width=700&lines=Welcome+to+Attila's+Digital+Kingdom!;Applied+AI+%26+Partnership+Specialist;AI+Prompt+Engineering+Enthusiast;JavaScript+%26+Python+Explorer;Think+Beyond+Limits.+Create+Beyond+Imagination." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=70C957&center=true&vCenter=true&width=700&lines=Welcome+to+Attila's+Digital+Kingdom!;Applied+AI+%26+Partnership+Specialist;AI+Prompt+Engineering+Enthusiast;JavaScript+%26+Python+Explorer;Think+Beyond+Limits.+Create+Beyond+Imagination."
+alt="Typing Animation"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/👑_ROYAL_AI-183D2A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_PROMPTER-70C957?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TECH_INNOVATION-9BE564?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROYAL_AI-183D2A?style=for-the-badge&logo=probot&logoColor=9BE564"/>
+<img src="https://img.shields.io/badge/AI_PROMPTER-70C957?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/TECH_INNOVATION-9BE564?style=for-the-badge&logo=github&logoColor=183D2A"/>
 
 <br/><br/>
 
@@ -28,7 +36,7 @@
 
 <div align="center">
 
-# ⚔️ CHARACTER PROFILE
+# 👑 CHARACTER PROFILE
 
 </div>
 
@@ -36,24 +44,34 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👑 Identity
+### ✦ PERSONAL IDENTITY
 
-**Name:** Attila Eka Putra
+**Name**
 
-**Role:** Applied AI & Partnership Specialist
+Attila Eka Putra
 
-**Specialty:** AI Prompt Engineering
+**Professional Role**
 
-**Status:** Always Exploring
+Applied AI & Partnership Specialist
+
+**Specialization**
+
+AI Prompt Engineering
+
+**Programming Languages**
+
+JavaScript & Python
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Mission
+### ✦ MY MISSION
 
 Exploring the intersection of artificial intelligence, creative technology, and strategic collaboration.
 
-Turning ideas into intelligent possibilities and meaningful digital solutions.
+Turning imagination into intelligent possibilities and building meaningful digital experiences.
+
+**Current Status:** Always Exploring 🚀
 
 </td>
 </tr>
@@ -65,7 +83,7 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 
 # 🧠 THE INTELLIGENCE CORE
 
-*My interests, skills, and technological playground.*
+*Exploring the possibilities of intelligent technology.*
 
 </div>
 
@@ -73,7 +91,7 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Applied Artificial Intelligence
+### 🤖 APPLIED ARTIFICIAL INTELLIGENCE
 
 - Generative AI
 - AI-powered solutions
@@ -84,7 +102,7 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 </td>
 <td width="50%" valign="top">
 
-### ✨ Prompt Engineering
+### ✨ PROMPT ENGINEERING
 
 - Text-to-image prompting
 - Text-to-video prompting
@@ -97,7 +115,7 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Programming
+### 💻 PROGRAMMING & DEVELOPMENT
 
 - JavaScript
 - Python
@@ -108,7 +126,7 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Partnership & Innovation
+### 🤝 PARTNERSHIP & INNOVATION
 
 - Strategic collaboration
 - Partnership development
@@ -126,22 +144,23 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 
 # ⚡ TECHNOLOGY ARSENAL
 
-### Programming Languages
+### PROGRAMMING LANGUAGES
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=javascript,python" alt="JavaScript and Python"/>
 
-### Development Tools
+<br/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+### DEVELOPMENT TOOLS
 
-### AI & Creative Technology
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma" alt="Development Tools"/>
 
-<img src="https://img.shields.io/badge/Generative_AI-183D2A?style=for-the-badge&logo=openai&logoColor=9BE564"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-70C957?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Creative_Technology-9BE564?style=for-the-badge&logo=lightbulb&logoColor=183D2A"/>
+<br/><br/>
+
+### AI & CREATIVE TECHNOLOGY
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-183D2A?style=for-the-badge&logo=openai&logoColor=9BE564"/>
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-70C957?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATIVE_TECHNOLOGY-9BE564?style=for-the-badge"/>
 
 </div>
 
@@ -215,19 +234,18 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 
 # 📊 GITHUB POWER LEVEL
 
-*My development activity and programming statistics.*
+*My development activity, programming statistics, and coding evolution.*
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Attilaekaputra1&show_icons=true&hide_border=true&bg_color=10291D&title_color=9BE564&icon_color=70C957&text_color=E5F5DC&rank_icon=github" width="100%" alt="GitHub Statistics"/>
+<!-- LOCALLY GENERATED PROFILE STATISTICS -->
+<img src="./assets/cards.dark.svg"
+     width="100%"
+     alt="Attila GitHub Statistics, Languages and Contributions"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attilaekaputra1&layout=compact&hide_border=true&bg_color=10291D&title_color=9BE564&text_color=E5F5DC" width="75%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Attilaekaputra1&hide_border=true&background=10291D&ring=9BE564&fire=70C957&currStreakLabel=9BE564&sideLabels=E5F5DC&dates=9AB99C" width="100%" alt="GitHub Streak"/>
+### ⚡ EVERY CONTRIBUTION BUILDS THE KINGDOM.
 
 </div>
 
@@ -241,7 +259,10 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Attilaekaputra1/Attilaekaputra1/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+<!-- CONTRIBUTION SNAKE -->
+<img src="https://raw.githubusercontent.com/Attilaekaputra1/Attilaekaputra1/output/github-contribution-grid-snake.svg"
+     width="100%"
+     alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -256,12 +277,13 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 <br/>
 
 <a href="https://github.com/Attilaekaputra1">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Kingdom-183D2A?style=for-the-badge&logo=github&logoColor=9BE564"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_KINGDOM-183D2A?style=for-the-badge&logo=github&logoColor=9BE564"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Attilaekaputra1&label=KINGDOM%20VISITORS&color=70C957&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Attilaekaputra1&label=KINGDOM%20VISITORS&color=70C957&style=for-the-badge"
+     alt="Profile Visitors"/>
 
 <br/><br/>
 
@@ -271,6 +293,8 @@ Turning ideas into intelligent possibilities and meaningful digital solutions.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:183D2A,50:70C957,100:9BE564&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:183D2A,50:70C957,100:9BE564&height=130&section=footer"
+     width="100%"
+     alt="Royal Green Footer"/>
 
 </div>
