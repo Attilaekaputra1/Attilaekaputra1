@@ -1,5 +1,4 @@
- 
-<div align="center">
+ <div align="center">
 
 <img src="./assets/crown-king.svg" width="100%" alt="Royal AI Banner"/>
 
@@ -92,7 +91,12 @@
 
 <div align="center">
 
-<img src="./assets/snake.svg" width="100%" alt="Royal AI Neural Network"/>
+<img src="./assets/neural-network.svg" width="100%" alt="Royal AI Neural Network"/>
+
+**CONNECTING IDEAS. ACTIVATING INTELLIGENCE.**
+
+<img src="https://img.shields.io/badge/NEURAL%20SYSTEM-ONLINE-39FF14?style=for-the-badge&logo=probot&logoColor=black"/>
+<img src="https://img.shields.io/badge/ROYAL%20AI-POWERED-39FF14?style=for-the-badge&logo=openai&logoColor=black"/>
 
 </div>
 
