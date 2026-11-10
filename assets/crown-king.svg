@@ -1,0 +1,162 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1">
+    <stop stop-color="#06170F"/>
+    <stop offset=".5" stop-color="#123A25"/>
+    <stop offset="1" stop-color="#06170F"/>
+  </linearGradient>
+  <linearGradient id="metal" x2=".8" y2="1">
+    <stop stop-color="#F1FFE9"/>
+    <stop offset=".35" stop-color="#9DBBA5"/>
+    <stop offset=".65" stop-color="#426B51"/>
+    <stop offset="1" stop-color="#D8FFB8"/>
+  </linearGradient>
+  <linearGradient id="gold" x2="0" y2="1">
+    <stop stop-color="#E5FF9D"/>
+    <stop offset=".5" stop-color="#70C957"/>
+    <stop offset="1" stop-color="#1D713F"/>
+  </linearGradient>
+  <radialGradient id="aura">
+    <stop stop-color="#9BE564" stop-opacity=".38"/>
+    <stop offset="1" stop-color="#70C957" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+    <path d="M35 0H0V35" fill="none" stroke="#9BE564" stroke-opacity=".1"/>
+  </pattern>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="440" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="440" fill="url(#grid)"/>
+
+<ellipse cx="890" cy="205" rx="330" ry="230" fill="url(#aura)">
+  <animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/>
+</ellipse>
+
+<!-- Background orbit rings -->
+<g transform="translate(890 205)" fill="none">
+  <ellipse rx="220" ry="95" stroke="#70C957" stroke-width="1.5" stroke-opacity=".4" transform="rotate(-25)">
+    <animateTransform attributeName="transform" type="rotate" from="-25 0 0" to="335 0 0" dur="28s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse rx="175" ry="150" stroke="#9BE564" stroke-opacity=".25" stroke-dasharray="4 10">
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="35s" repeatCount="indefinite"/>
+  </ellipse>
+  <circle r="135" stroke="#9BE564" stroke-opacity=".3" stroke-dasharray="3 9"/>
+</g>
+
+<!-- Floating particles -->
+<g fill="#CFFF9B" filter="url(#glow)">
+  <circle cx="700" cy="90" r="4">
+    <animate attributeName="cy" values="90;70;90" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="110" r="3">
+    <animate attributeName="cy" values="110;125;110" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="310" r="4">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="340" r="3">
+    <animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- Crown floating -->
+<g>
+<animateTransform attributeName="transform" type="translate"
+ values="0 0;0 -13;0 0" dur="4s" repeatCount="indefinite"/>
+
+<g transform="translate(890 205)" filter="url(#glow)">
+
+  <!-- Crown shadow / energy -->
+  <ellipse cx="0" cy="120" rx="145" ry="20" fill="#70C957" opacity=".2">
+    <animate attributeName="rx" values="120;150;120" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Outer robotic crown silhouette -->
+  <path d="M-155 30 L-185 -90 L-95 -25 L-60 -150 L0 -70 L60 -150 L95 -25 L185 -90 L155 30 L135 82 L-135 82Z"
+        fill="url(#metal)" stroke="#D7FFAE" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Dark crown panels -->
+  <path d="M-140 25 L-160 -53 L-95 -4 L-60 -108 L-22 -37 L-75 62 L-130 62Z" fill="#244B35"/>
+  <path d="M140 25 L160 -53 L95 -4 L60 -108 L22 -37 L75 62 L130 62Z" fill="#244B35"/>
+  <path d="M-55 -8 L0 -75 L55 -8 L80 62 L-80 62Z" fill="#183B29"/>
+
+  <!-- Neon edges -->
+  <path d="M-185 -90L-140 25L-130 62H130L140 25L185 -90"
+        fill="none" stroke="#9BE564" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M-60 -150L-22 -37 M60 -150L22 -37"
+        fill="none" stroke="#B8FF8B" stroke-width="5"/>
+
+  <!-- Robotic face display -->
+  <rect x="-51" y="-2" width="102" height="57" rx="18"
+        fill="#071B11" stroke="#9BE564" stroke-width="4"/>
+  <g fill="#BFFF87" filter="url(#glow)">
+    <path d="M-31 20L-15 10L-4 20L-15 30Z"/>
+    <path d="M31 20L15 10L4 20L15 30Z"/>
+  </g>
+  <path d="M-15 42H15" stroke="#70C957" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Center AI jewel -->
+  <path d="M0 -100 L28 -69 L0 -38 L-28 -69Z"
+        fill="url(#gold)" stroke="#E5FFB8" stroke-width="3"/>
+  <path d="M0 -87L12 -69L0 -51L-12 -69Z"
+        fill="#E9FFD0"/>
+
+  <!-- Side circuitry -->
+  <g fill="none" stroke="#B8F28B" stroke-width="3">
+    <path d="M-112 25H-85V45H-65"/>
+    <path d="M112 25H85V45H65"/>
+    <path d="M-95 -25V-47H-75"/>
+    <path d="M95 -25V-47H75"/>
+  </g>
+  <g fill="#D7FFAE">
+    <circle cx="-65" cy="45" r="4"/>
+    <circle cx="65" cy="45" r="4"/>
+    <circle cx="-75" cy="-47" r="4"/>
+    <circle cx="75" cy="-47" r="4"/>
+  </g>
+
+  <!-- Crown base -->
+  <path d="M-155 65 Q0 105 155 65 L140 105 Q0 135 -140 105Z"
+        fill="url(#metal)" stroke="#CFFF9B" stroke-width="4"/>
+  <path d="M-135 82Q0 112 135 82" fill="none" stroke="#70C957" stroke-width="5"/>
+
+  <!-- Bottom glowing jewels -->
+  <g fill="#CFFF9B" filter="url(#glow)">
+    <circle cx="-100" cy="87" r="7"/>
+    <circle cx="0" cy="103" r="8"/>
+    <circle cx="100" cy="87" r="7"/>
+  </g>
+</g>
+</g>
+
+<!-- Holographic data -->
+<g font-family="monospace" fill="#9BE564" opacity=".75">
+  <text x="1030" y="90" font-size="12">ROYAL_AI_CORE</text>
+  <text x="1030" y="108" font-size="10">STATUS: ONLINE</text>
+  <text x="1030" y="330" font-size="11">INTELLIGENCE_001</text>
+  <text x="710" y="375" font-size="10">NEURAL NETWORK ACTIVE</text>
+</g>
+
+<!-- Left typography -->
+<g font-family="monospace">
+  <text x="65" y="75" fill="#9BE564" font-size="14" letter-spacing="5">WELCOME TO THE AI KINGDOM</text>
+  <text x="65" y="160" fill="#F2FFE9" font-size="56" font-weight="bold">ATTILA EKA</text>
+  <text x="65" y="222" fill="#9BE564" font-size="56" font-weight="bold">PUTRA.</text>
+  <path d="M68 245H570" stroke="#70C957" stroke-width="3"/>
+  <text x="68" y="285" fill="#FFFFFF" font-size="17">APPLIED AI &amp; PARTNERSHIP SPECIALIST</text>
+  <text x="68" y="325" fill="#B9E7B6" font-size="14">PROMPT ENGINEERING • CREATIVE AI</text>
+  <text x="68" y="375" fill="#9BE564" font-size="13">JAVASCRIPT  /  PYTHON  /  INNOVATION</text>
+</g>
+
+<rect x="1" y="1" width="1198" height="438" rx="22"
+      fill="none" stroke="#70C957" stroke-opacity=".55" stroke-width="2"/>
+</svg>
