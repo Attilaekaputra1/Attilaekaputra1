@@ -1,35 +1,20 @@
 
-name: Generate Contribution Snake
+---
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
+<div align="center">
 
-  workflow_dispatch:
+# ⚡ THE ROYAL AI UNIVERSE
 
-  push:
-    branches:
-      - main
+*Where intelligence becomes infinite possibilities.*
 
-permissions:
-  contents: write
+<img src="./assets/royal-ai-universe.svg"
+     width="100%"
+     alt="Royal AI Neural Constellation Reactor"/>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+### 👑 INTELLIGENCE ONLINE
 
-    steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Attilaekaputra1
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+**THINK BEYOND LIMITS. CREATE BEYOND IMAGINATION.**
 
-      - name: Publish Snake Animation
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+</div>
+
+---
