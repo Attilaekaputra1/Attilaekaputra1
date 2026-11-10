@@ -1,34 +1,34 @@
 
-<!-- ================================================== -->
-<!-- ATTILA EKA PUTRA | ROYAL AI KINGDOM                -->
-<!-- GitHub Profile README                              -->
-<!-- ================================================== -->
+<!-- ================================================= -->
+<!-- ATTILA EKA PUTRA | ROYAL AI KINGDOM V3            -->
+<!-- GitHub Profile: Attilaekaputra1                   -->
+<!-- ================================================= -->
 
 <div align="center">
 
-<!-- ROYAL AI CROWN -->
-<img src="./assets/crown-king.svg"
+<!-- ROYAL AI HERO -->
+<img src="./assets/royal-ai-universe.svg"
      width="100%"
-     alt="Attila Royal AI Crown"/>
+     alt="Attila Royal AI Universe"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=70C957&center=true&vCenter=true&width=700&lines=Welcome+to+Attila's+Digital+Kingdom!;Applied+AI+%26+Partnership+Specialist;AI+Prompt+Engineering+Enthusiast;JavaScript+%26+Python+Explorer;Think+Beyond+Limits.+Create+Beyond+Imagination."
-alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=900&color=83F05B&center=true&vCenter=true&width=850&lines=ATTILA+EKA+PUTRA;Applied+AI+%26+Partnership+Specialist;AI+Prompt+Engineering+Enthusiast;JavaScript+%26+Python+Explorer;Building+Ideas+with+Intelligent+Technology"
+     alt="Typing Animation"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ROYAL_AI-183D2A?style=for-the-badge&logo=probot&logoColor=9BE564"/>
-<img src="https://img.shields.io/badge/AI_PROMPTER-70C957?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/TECH_INNOVATION-9BE564?style=for-the-badge&logo=github&logoColor=183D2A"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-183D2A?style=for-the-badge&logo=openai&logoColor=9BFF68"/>
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-70C957?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/TECH_INNOVATION-9BEB64?style=for-the-badge&logoColor=183D2A"/>
 
 <br/><br/>
 
-### 👑 THE ROYAL AI EXPERIENCE
+# 👑 THE ROYAL AI EXPERIENCE
 
-**Think Beyond Limits. Create Beyond Imagination.**
+### Think Beyond Limits. Create Beyond Imagination.
 
-*Welcome to my digital kingdom — where intelligence meets creativity.*
+*Where intelligence meets creativity, technology, and meaningful collaboration.*
 
 </div>
 
@@ -36,7 +36,7 @@ alt="Typing Animation"/>
 
 <div align="center">
 
-# 👑 CHARACTER PROFILE
+# 🧑‍💻 CHARACTER PROFILE
 
 </div>
 
@@ -44,19 +44,19 @@ alt="Typing Animation"/>
 <tr>
 <td width="50%" valign="top">
 
-### ✦ PERSONAL IDENTITY
+### 👑 PERSONAL IDENTITY
 
 **Name**
 
 Attila Eka Putra
 
-**Professional Role**
+**Professional Position**
 
 Applied AI & Partnership Specialist
 
-**Specialization**
+**Primary Focus**
 
-AI Prompt Engineering
+Artificial Intelligence & Prompt Engineering
 
 **Programming Languages**
 
@@ -65,13 +65,13 @@ JavaScript & Python
 </td>
 <td width="50%" valign="top">
 
-### ✦ MY MISSION
+### 🚀 PROFESSIONAL MISSION
 
-Exploring the intersection of artificial intelligence, creative technology, and strategic collaboration.
+Exploring the intersection of artificial intelligence, creative technology, and strategic partnerships.
 
-Turning imagination into intelligent possibilities and building meaningful digital experiences.
+Transforming ideas into intelligent solutions through innovation, experimentation, and meaningful collaboration.
 
-**Current Status:** Always Exploring 🚀
+**Mindset:** Think. Explore. Create. Innovate.
 
 </td>
 </tr>
@@ -83,7 +83,7 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 # 🧠 THE INTELLIGENCE CORE
 
-*Exploring the possibilities of intelligent technology.*
+*Exploring the limitless possibilities of artificial intelligence.*
 
 </div>
 
@@ -93,7 +93,7 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 ### 🤖 APPLIED ARTIFICIAL INTELLIGENCE
 
-- Generative AI
+- Generative AI exploration
 - AI-powered solutions
 - Intelligent workflows
 - AI experimentation
@@ -104,11 +104,11 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 ### ✨ PROMPT ENGINEERING
 
+- Advanced prompt design
 - Text-to-image prompting
 - Text-to-video prompting
 - Prompt optimization
-- Structured prompting
-- AI creative workflows
+- Structured AI workflows
 
 </td>
 </tr>
@@ -119,18 +119,18 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 - JavaScript
 - Python
-- Development fundamentals
+- Programming fundamentals
 - Workflow experimentation
-- Problem solving
+- Technical problem solving
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤝 PARTNERSHIP & INNOVATION
 
-- Strategic collaboration
+- Strategic partnerships
+- Technology collaboration
 - Partnership development
-- Technology ecosystems
 - Digital transformation
 - Innovation initiatives
 
@@ -148,19 +148,19 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 <img src="https://skillicons.dev/icons?i=javascript,python" alt="JavaScript and Python"/>
 
-<br/>
+<br/><br/>
 
-### DEVELOPMENT TOOLS
+### DEVELOPMENT ENVIRONMENT
 
 <img src="https://skillicons.dev/icons?i=github,git,vscode,figma" alt="Development Tools"/>
 
 <br/><br/>
 
-### AI & CREATIVE TECHNOLOGY
+### ARTIFICIAL INTELLIGENCE
 
-<img src="https://img.shields.io/badge/GENERATIVE_AI-183D2A?style=for-the-badge&logo=openai&logoColor=9BE564"/>
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-70C957?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CREATIVE_TECHNOLOGY-9BE564?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-183D2A?style=for-the-badge&logo=openai&logoColor=9BFF68"/>
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-245D36?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_AUTOMATION-70C957?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -168,7 +168,9 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 <div align="center">
 
-# 🔮 MY CREATIVE WORKFLOW
+# 🔮 THE INNOVATION PROTOCOL
+
+*My approach to turning ideas into intelligent possibilities.*
 
 </div>
 
@@ -176,16 +178,16 @@ Turning imagination into intelligent possibilities and building meaningful digit
 <tr>
 <td align="center" width="20%">
 
-### 💡
+💡
 
 **01**
 
-**THINK**
+**IDEATE**
 
 </td>
 <td align="center" width="20%">
 
-### 🔍
+🔍
 
 **02**
 
@@ -194,25 +196,25 @@ Turning imagination into intelligent possibilities and building meaningful digit
 </td>
 <td align="center" width="20%">
 
-### 🧠
+🧠
 
 **03**
 
-**PROMPT**
+**ENGINEER**
 
 </td>
 <td align="center" width="20%">
 
-### ⚙️
+⚙️
 
 **04**
 
-**BUILD**
+**DEVELOP**
 
 </td>
 <td align="center" width="20%">
 
-### 🚀
+🚀
 
 **05**
 
@@ -224,7 +226,7 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 <div align="center">
 
-*Every great innovation begins with a curious mind.*
+*Great innovation begins with curiosity and grows through experimentation.*
 
 </div>
 
@@ -238,12 +240,11 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 <br/>
 
-<!-- LOCALLY GENERATED PROFILE STATISTICS -->
 <img src="./assets/cards.dark.svg"
      width="100%"
-     alt="Attila GitHub Statistics, Languages and Contributions"/>
+     alt="Attila GitHub Statistics and Programming Languages"/>
 
-<br/>
+<br/><br/>
 
 ### ⚡ EVERY CONTRIBUTION BUILDS THE KINGDOM.
 
@@ -253,16 +254,17 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 <div align="center">
 
-# 🐍 CONTRIBUTION KINGDOM
+# 🌌 ROYAL AI UNIVERSE
 
-*Every contribution is another step in the evolution.*
+*An ecosystem of intelligence, imagination, and endless possibilities.*
 
-<br/>
-
-<!-- CONTRIBUTION SNAKE -->
-<img src="https://raw.githubusercontent.com/Attilaekaputra1/Attilaekaputra1/output/github-contribution-grid-snake.svg"
+<img src="./assets/royal-ai-universe.svg"
      width="100%"
-     alt="GitHub Contribution Snake"/>
+     alt="Royal AI Neural Constellation Reactor"/>
+
+### 👑 INTELLIGENCE ONLINE
+
+**THINK BEYOND LIMITS. CREATE BEYOND IMAGINATION.**
 
 </div>
 
@@ -270,14 +272,14 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 <div align="center">
 
-# 🌐 ENTER THE KINGDOM
+# 🌐 CONNECT WITH ME
 
 **Let's connect, collaborate, and create something extraordinary.**
 
 <br/>
 
 <a href="https://github.com/Attilaekaputra1">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_KINGDOM-183D2A?style=for-the-badge&logo=github&logoColor=9BE564"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_KINGDOM-183D2A?style=for-the-badge&logo=github&logoColor=9BFF68"/>
 </a>
 
 <br/><br/>
@@ -293,7 +295,7 @@ Turning imagination into intelligent possibilities and building meaningful digit
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:183D2A,50:70C957,100:9BE564&height=130&section=footer"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:183D2A,50:70C957,100:9BFF68&height=150&section=footer"
      width="100%"
      alt="Royal Green Footer"/>
 
