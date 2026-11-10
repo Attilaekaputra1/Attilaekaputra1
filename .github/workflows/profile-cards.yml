@@ -3,7 +3,7 @@ name: Generate Royal AI Profile Cards
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate profile statistics
+      - name: Generate profile cards
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -28,4 +28,3 @@ jobs:
           themes: dark
           palette: green
           commit: true
-          commit-message: "chore: update royal AI profile cards"
